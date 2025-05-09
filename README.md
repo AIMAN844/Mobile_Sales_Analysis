@@ -44,9 +44,6 @@ This project performs **Exploratory Data Analysis (EDA)** on a mobile and laptop
 
 ## 📌 Author
 
-**Ahman Sheikh**
+**Ahman**
 Aspiring Data Analyst | Python & BI Enthusiast
 
----
-
-Let me know if you'd like help turning this into a GitHub README file directly.
